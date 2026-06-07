@@ -3,6 +3,7 @@
 # Miha Backup Script - Backs up workspace to Git (originally Google Drive via rclone)
 # Triggered by "good night" or manual execution
 # Changed 2026-05-30: Switched from Google Drive to Git
+# Changed 2026-06-07: Now backing up to github.com/sebastianbrosche/miha (separate from Reddragon)
 #
 
 PROJECT_DIR="/root/.openclaw/workspace"
