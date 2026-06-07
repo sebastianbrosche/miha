@@ -1,5 +1,13 @@
 # TOOLS.md - Local Notes
 
+## Miha Workspace Backup Repo
+**Repo:** `github.com/sebastianbrosche/miha`
+**Branch:** `master`
+**Daily backup:** 03:17 AM via cron
+**Last push:** Just now (new repo created)
+**Contains:** SOUL.md, IDENTITY.md, USER.md, MEMORY.md, daily logs, all workspace files
+**Note:** Separate from Reddragon repo — this is Miha's personal backup
+
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
 ## What Goes Here
