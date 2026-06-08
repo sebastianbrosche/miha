@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heat Lagos | Infrared Hot Yoga & Mat Pilates on Praia da Batata</title>
+    <meta name="description" content="Luxury infrared hot yoga & mat Pilates studio in Lagos, Portugal. 30-32°C infrared heat on Praia da Batata beach. Drop-in €22. Vacation week €59. English-only classes.">
+    <meta name="keywords" content="hot yoga Lagos, infrared yoga Lagos, mat Pilates Lagos, Pilates sculpt Lagos, yoga studio Praia da Batata, Heat Lagos">
+    
+    <link rel="canonical" href="https://heatlagos.com/">
+    
+    <meta property="og:title" content="Heat Lagos | Infrared Hot Yoga & Mat Pilates on Praia da Batata">
+    <meta property="og:description" content="30-32°C infrared heat studio on Lagos' most popular beach. English-only classes. Drop-in €22.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://heatlagos.com">
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Heat Lagos",
+        "alternateName": "Heat Lagos Yoga & Pilates",
+        "description": "Luxury infrared hot yoga and mat Pilates studio on Praia da Batata, Lagos. 30-32°C infrared heating technology. English-only classes.",
+        "url": "https://heatlagos.com",
+        "telephone": "+351-XXX-XXX-XXX",
+        "email": "hello@heatlagos.com",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Edificio da Fabrica da Ribeira, Av. dos Descobrimentos, Loja G",
+            "addressLocality": "Lagos",
+            "addressRegion": "Algarve",
+            "addressCountry": "PT",
+            "postalCode": "8600-854"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "37.1028",
+            "longitude": "-8.6730"
+        },
+        "priceRange": "€€",
+        "openingHours": ["Mo-Fr 07:00-21:00", "Sa-Su 08:00-18:00"],
+        "paymentAccepted": "Cash, Credit Card, PayPal",
+        "currenciesAccepted": "EUR",
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Class Packages",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {"@type": "Service", "name": "Drop-In Class"},
+                    "price": "22",
+                    "priceCurrency": "EUR"
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {"@type": "Service", "name": "Vacation Week Unlimited"},
+                    "price": "59",
+                    "priceCurrency": "EUR"
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {"@type": "Service", "name": "14-Day Intro Unlimited"},
+                    "price": "79",
+                    "priceCurrency": "EUR"
+                }
+            ]
+        },
+        "sameAs": ["https://www.instagram.com/heatlagos"]
+    }
+    </script>
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #fff; line-height: 1.6; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        
+        nav { padding: 20px 0; position: sticky; top: 0; background: rgba(10,10,10,0.95); backdrop-filter: blur(10px); z-index: 100; border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .nav-inner { display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 24px; font-weight: 700; color: #ff6b35; text-decoration: none; }
+        .logo span { color: #fff; font-weight: 300; }
+        .nav-links a { color: #aaa; text-decoration: none; margin-left: 30px; transition: color 0.3s; font-size: 14px; }
+        .nav-links a:hover { color: #ff6b35; }
+        .nav-cta { background: #ff6b35; color: #fff; padding: 8px 20px; border-radius: 20px; font-weight: 700; text-decoration: none; font-size: 14px; }
+        
+        .hero { padding: 100px 0 60px; text-align: center; }
+        .hero h1 { font-size: 48px; margin-bottom: 20px; line-height: 1.2; }
+        .hero h1 .highlight { color: #ff6b35; }
+        .hero-subtitle { font-size: 20px; color: #aaa; margin-bottom: 40px; max-width: 700px; margin-left: auto; margin-right: auto; }
+        .badge { display: inline-block; background: rgba(255,107,53,0.2); color: #ff6b35; padding: 8px 16px; border-radius: 20px; font-size: 14px; margin-bottom: 30px; }
+        .cta-group { display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; }
+        .btn-primary { background: #ff6b35; color: #fff; padding: 15px 40px; border: none; border-radius: 30px; font-size: 16px; font-weight: 700; cursor: pointer; text-decoration: none; display: inline-block; }
+        .btn-secondary { background: transparent; color: #ff6b35; padding: 15px 40px; border: 2px solid #ff6b35; border-radius: 30px; font-size: 16px; font-weight: 700; cursor: pointer; text-decoration: none; display: inline-block; }
+        
+        .trust-bar { background: rgba(255,255,255,0.03); padding: 30px 0; border-top: 1px solid rgba(255,255,255,0.05); border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .trust-items { display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; }
+        .trust-item { display: flex; align-items: center; gap: 10px; color: #888; font-size: 14px; }
+        .trust-item .icon { color: #ff6b35; font-size: 18px; }
+        
+        .features { padding: 80px 0; }
+        .features h2 { text-align: center; font-size: 36px; margin-bottom: 60px; }
+        .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; }
+        .feature-card { padding: 40px 30px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); }
+        .feature-card h3 { font-size: 24px; margin-bottom: 15px; color: #ff6b35; }
+        .feature-card p { color: #aaa; font-size: 15px; margin-bottom: 20px; }
+        .feature-card a { color: #ff6b35; text-decoration: none; font-weight: 700; }
+        .feature-card a:hover { text-decoration: underline; }
+        
+        .pricing { padding: 80px 0; background: rgba(255,255,255,0.02); }
+        .pricing h2 { text-align: center; font-size: 36px; margin-bottom: 60px; }
+        .pricing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+        .pricing-card { padding: 40px 30px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); text-align: center; }
+        .pricing-card.featured { border: 2px solid #ff6b35; }
+        .pricing-card h3 { font-size: 20px; margin-bottom: 15px; }
+        .pricing-card .price { font-size: 48px; font-weight: 700; color: #ff6b35; margin-bottom: 10px; }
+        .pricing-card .price span { font-size: 16px; color: #888; font-weight: 400; }
+        .pricing-card p { color: #aaa; font-size: 15px; margin-bottom: 20px; }
+        .pricing-card .btn { display: inline-block; background: #ff6b35; color: #fff; padding: 12px 30px; border-radius: 25px; text-decoration: none; font-weight: 700; }
+        
+        .location-section { padding: 80px 0; }
+        .location-section h2 { text-align: center; font-size: 36px; margin-bottom: 20px; }
+        .location-section .subtitle { text-align: center; color: #aaa; margin-bottom: 60px; }
+        .location-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; }
+        .location-info h3 { font-size: 24px; margin-bottom: 20px; color: #ff6b35; }
+        .location-info p { color: #ccc; margin-bottom: 15px; }
+        .location-info ul { margin: 20px 0; padding-left: 20px; }
+        .location-info ul li { color: #aaa; margin-bottom: 10px; }
+        .location-info .address { background: rgba(255,255,255,0.03); padding: 20px; border-radius: 8px; margin-top: 20px; }
+        .location-info .address p { margin-bottom: 5px; font-size: 14px; }
+        .location-info .address .label { color: #888; font-size: 12px; text-transform: uppercase; }
+        
+        .science { padding: 80px 0; background: rgba(255,255,255,0.02); }
+        .science h2 { text-align: center; font-size: 36px; margin-bottom: 60px; }
+        .science-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; }
+        .science-item { padding: 30px; background: rgba(255,255,255,0.03); border-radius: 12px; border-left: 3px solid #ff6b35; }
+        .science-item h3 { font-size: 20px; margin-bottom: 15px; }
+        .science-item p { color: #aaa; font-size: 15px; }
+        
+        .reviews { padding: 80px 0; }
+        .reviews h2 { text-align: center; font-size: 36px; margin-bottom: 60px; }
+        .reviews-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+        .review-card { padding: 30px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); }
+        .review-card .stars { color: #ff6b35; margin-bottom: 15px; font-size: 20px; }
+        .review-card .quote { font-style: italic; color: #ccc; margin-bottom: 20px; font-size: 16px; }
+        .review-card .author { color: #ff6b35; font-weight: 700; }
+        .review-card .detail { color: #888; font-size: 14px; }
+        
+        .cta-section { padding: 100px 0; text-align: center; }
+        .cta-section h2 { font-size: 36px; margin-bottom: 20px; }
+        .cta-section p { color: #aaa; font-size: 18px; margin-bottom: 40px; }
+        
+        footer { padding: 60px 0 30px; border-top: 1px solid rgba(255,255,255,0.05); }
+        .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 40px; margin-bottom: 40px; }
+        .footer-section h4 { font-size: 14px; color: #aaa; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px; }
+        .footer-section a { display: block; color: #888; text-decoration: none; margin-bottom: 10px; transition: color 0.3s; font-size: 14px; }
+        .footer-section a:hover { color: #ff6b35; }
+        .footer-section p { color: #888; font-size: 14px; margin-bottom: 10px; }
+        .footer-bottom { text-align: center; color: #555; font-size: 14px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.05); }
+        .footer-bottom a { color: #888; }
+        
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 32px; }
+            .nav-links { display: none; }
+            .location-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container nav-inner">
+            <a href="/" class="logo">Heat<span>Lagos</span></a>
+            <div class="nav-links">
+                <a href="/infrared-hot-yoga-lagos">Hot Yoga</a>
+                <a href="/mat-pilates-lagos">Mat Pilates</a>
+                <a href="/pilates-sculpt-lagos">Pilates Sculpt</a>
+                <a href="/pricing">Pricing</a>
+                <a href="https://yogateachertrainingportugal.eu">YTT</a>
+            </div>
+            <a href="#book" class="nav-cta">Book Class</a>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <div class="badge">30-32°C Infrared Heat | Praia da Batata</div>
+            <h1>Infrared Hot Yoga & Mat Pilates <span class="highlight">Lagos</span></h1>
+            <p class="hero-subtitle">The only luxury studio located directly across from Lagos' most popular beach. English-only classes. No reformers. Just real heat, real movement, real results.</p>
+            <div class="cta-group">
+                <a href="#book" class="btn-primary">Book Your First Class — €22</a>
+                <a href="/infrared-hot-yoga-lagos" class="btn-secondary">Explore Infrared Yoga</a>
+            </div>
+        </div>
+    </section>
+    
+    <div class="trust-bar">
+        <div class="container">
+            <div class="trust-items">
+                <div class="trust-item"><span class="icon">✓</span> 30-32°C Infrared Technology</div>
+                <div class="trust-item"><span class="icon">✓</span> Praia da Batata Location</div>
+                <div class="trust-item"><span class="icon">✓</span> English-Only Classes</div>
+                <div class="trust-item"><span class="icon">✓</span> Mat Pilates (No Reformers)</div>
+                <div class="trust-item"><span class="icon">✓</span> Tourist & Local Friendly</div>
+            </div>
+        </div>
+    </div>
+
+    <section class="features">
+        <div class="container">
+            <h2>Our Classes</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <h3>Infrared Hot Yoga</h3>
+                    <p>30-32°C infrared heat that warms your body and the floor, not the air. It's warm enough to make you loose and nimble for stretching, but not overwhelming like 40°C Bikram. You sweat, you breathe, you move.</p>
+                    <a href="/infrared-hot-yoga-lagos">Learn More →</a>
+                </div>
+                <div class="feature-card">
+                    <h3>Mat Pilates</h3>
+                    <p>Classical mat Pilates with a modern edge. No reformers, no cadillacs, no equipment. Just your body, the mat, and precise, controlled movements that build core strength and long, lean muscle.</p>
+                    <a href="/mat-pilates-lagos">Learn More →</a>
+                </div>
+                <div class="feature-card">
+                    <h3>Pilates Sculpt</h3>
+                    <p>Where Pilates meets intensity. Higher reps, lighter resistance, faster pace. The heat makes your muscles more pliable, the sculpt makes them stronger. Expect to shake, expect to sweat, expect to change.</p>
+                    <a href="/pilates-sculpt-lagos">Learn More →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pricing">
+        <div class="container">
+            <h2>Simple Pricing</h2>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <h3>Drop-In</h3>
+                    <div class="price">€22 <span>/ class</span></div>
+                    <p>Buy 1, get 1 free. First-time visitors get 2 classes for the price of 1. Perfect for tourists trying us out.</p>
+                    <a href="#book" class="btn">Book Now</a>
+                </div>
+                <div class="pricing-card featured">
+                    <h3>Vacation Week</h3>
+                    <div class="price">€59 <span>/ week</span></div>
+                    <p>Unlimited classes for 7 days. The perfect way to maintain your practice while traveling. No commitment, all access.</p>
+                    <a href="#book" class="btn">Get Unlimited</a>
+                </div>
+                <div class="pricing-card">
+                    <h3>Intro Offer</h3>
+                    <div class="price">€79 <span>/ 14 days</span></div>
+                    <p>14 days unlimited. For locals and expats ready to commit. Try every class, find your rhythm, join the community.</p>
+                    <a href="#book" class="btn">Start Your Trial</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="science">
+        <div class="container">
+            <h2>Why Infrared Heat?</h2>
+            <div class="science-grid">
+                <div class="science-item">
+                    <h3>It Heats You, Not the Air</h3>
+                    <p>Traditional forced-air systems blast hot air that sits at the ceiling, leaving you either freezing or suffocating. Infrared panels emit radiant heat that warms your body directly — like the sun, but without the UV.</p>
+                </div>
+                <div class="science-item">
+                    <h3>30-32°C Is the Sweet Spot</h3>
+                    <p>Hot enough to make your muscles pliable and your connective tissue receptive. Not so hot that you're gasping for air or worrying about heat exhaustion. You can actually focus on your practice.</p>
+                </div>
+                <div class="science-item">
+                    <h3>Detox Without the Dizziness</h3>
+                    <p>You sweat deeply — infrared heat penetrates tissue and releases toxins through perspiration. But unlike 40°C Bikram rooms, you won't feel dizzy, nauseous, or depleted. You'll feel energized.</p>
+                </div>
+                <div class="science-item">
+                    <h3>Joint-Friendly Warmth</h3>
+                    <p>The floor stays warm. Your joints open naturally. Your muscles lengthen without force. For people with stiffness, arthritis, or chronic tightness, this is the difference between a painful stretch and a productive one.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="location-section">
+        <div class="container">
+            <h2>Find Us on Praia da Batata</h2>
+            <p class="subtitle">Directly across from Lagos' most popular beach, below Old Town</p>
+            <div class="location-grid">
+                <div class="location-info">
+                    <h3>The Studio</h3>
+                    <p>Heat Lagos is the only yoga and Pilates studio located directly across from Praia da Batata — Lagos' most foot-trafficked beach. You can see the ocean from the studio door. After class, you're 30 seconds from the sand.</p>
+                    <ul>
+                        <li>Directly across from Praia da Batata</li>
+                        <li>Steps from Old Town Lagos</li>
+                        <li>5 minutes from Meia Praia</li>
+                        <li>English-only instruction</li>
+                        <li>Infrared heating panels (no forced air)</li>
+                        <li>Mat Pilates only (no reformers)</li>
+                    </ul>
+                    <div class="address">
+                        <p class="label">Address</p>
+                        <p>Edificio da Fabrica da Ribeira</p>
+                        <p>Av. dos Descobrimentos, Loja G</p>
+                        <p>8600-854 Lagos, Portugal</p>
+                    </div>
+                </div>
+                <div class="location-info">
+                    <h3>Getting Here</h3>
+                    <p>Whether you're a local, expat, or tourist, getting to Heat Lagos is simple:</p>
+                    <ul>
+                        <li><strong>From Lagos town center:</strong> 5-minute walk along the waterfront</li>
+                        <li><strong>From Praia da Batata:</strong> Cross the street, we're right there</li>
+                        <li><strong>From Meia Praia:</strong> 10-minute walk along the boardwalk</li>
+                        <li><strong>From Lagos train station:</strong> 15-minute walk or 5-minute taxi</li>
+                        <li><strong>From Faro airport:</strong> 45-minute drive, bus, or transfer</li>
+                    </ul>
+                    <p style="margin-top:20px">Look for the orange "Heat Lagos" sign on the building facade. We're on the ground floor, Loja G.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="reviews">
+        <div class="container">
+            <h2>What Clients Say</h2>
+            <div class="reviews-grid">
+                <div class="review-card">
+                    <div class="stars">★★★★★</div>
+                    <p class="quote">"The infrared hot yoga class at Heat Lagos was unlike anything I've tried. The 30-degree heat is perfect — you sweat but you can actually breathe. And the location on Praia da Batata is unbeatable."</p>
+                    <p class="author">Sarah M.</p>
+                    <p class="detail">Tourist from London | Mat Pilates & Hot Yoga</p>
+                </div>
+                <div class="review-card">
+                    <div class="stars">★★★★★</div>
+                    <p class="quote">"Finally, a Pilates studio in Lagos that does real mat work without all the reformer machines. The Pilates Sculpt class is intense. I've been coming for 3 months and my core has never been stronger."</p>
+                    <p class="author">Marco T.</p>
+                    <p class="detail">Local Expat | Pilates Sculpt Regular</p>
+                </div>
+                <div class="review-card">
+                    <div class="stars">★★★★★</div>
+                    <p class="quote">"The vacation week pass was perfect for our trip. €59 for unlimited classes while we were in Lagos. We did hot yoga every morning and Pilates every evening. Best money we spent on the whole trip."</p>
+                    <p class="author">Jessica K.</p>
+                    <p class="detail">Tourist from Berlin | Vacation Week Pass</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cta-section" id="book">
+        <div class="container">
+            <h2>Ready to Feel the Heat?</h2>
+            <p>Your first class is €22 (buy 1, get 1 free). No commitment, no pressure, just real movement.</p>
+            <a href="mailto:hello@heatlagos.com?subject=Class Booking" class="btn-primary">Book Your First Class</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h4>Classes</h4>
+                    <a href="/infrared-hot-yoga-lagos">Infrared Hot Yoga</a>
+                    <a href="/mat-pilates-lagos">Mat Pilates</a>
+                    <a href="/pilates-sculpt-lagos">Pilates Sculpt</a>
+                    <a href="/pricing">Pricing</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Training</h4>
+                    <a href="https://yogateachertrainingportugal.eu">200-Hour YTT Portugal</a>
+                    <a href="https://yogateachertrainingportugal.eu/blog/yoga-alliance-certification">Yoga Alliance Certification</a>
+                    <a href="https://yogateachertrainingportugal.eu/blog/cost-of-yoga-teacher-training-portugal">YTT Cost Guide</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Location</h4>
+                    <p>Edificio da Fabrica da Ribeira</p>
+                    <p>Av. dos Descobrimentos, Loja G</p>
+                    <p>8600-854 Lagos, Portugal</p>
+                    <p style="margin-top:15px">hello@heatlagos.com</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Follow</h4>
+                    <a href="https://www.instagram.com/heatlagos" target="_blank">Instagram @heatlagos</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2026 Heat Lagos | Infrared Hot Yoga & Mat Pilates on Praia da Batata</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

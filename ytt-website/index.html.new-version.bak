@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>200-Hour Yoga Teacher Training Portugal | RYT200 Algarve — September 2026</title>
+    <meta name="description" content="Yoga Alliance certified 200-hour Vinyasa teacher training in Lagos, Portugal. Led by Stine & Sebastian (15+ years each). 60h online + 15-day intensive on Praia da Batata. Early bird €1,490.">
+    <meta name="keywords" content="yoga teacher training Portugal, 200 hour yoga teacher training Portugal, YTT Portugal, RYT200 Algarve, yoga teacher training Lagos, Vinyasa yoga certification Portugal">
+    
+    <link rel="canonical" href="https://yogateachertrainingportugal.eu/">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="200-Hour Yoga Teacher Training Portugal | RYT200 Algarve — September 2026">
+    <meta property="og:description" content="Yoga Alliance certified. Led by Stine & Sebastian (15+ years each). 60h online + 15-day intensive on Praia da Batata beach. Early bird €1,490.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yogateachertrainingportugal.eu">
+    <meta property="og:image" content="https://yogateachertrainingportugal.eu/og-image.jpg">
+    <meta property="og:site_name" content="Yoga Teacher Training Portugal">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="200-Hour Yoga Teacher Training Portugal | RYT200 Algarve">
+    <meta name="twitter:description" content="Yoga Alliance certified. 60h online + 15-day intensive on Praia da Batata beach. Early bird €1,490.">
+    
+    <!-- Schema: Course -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "200-Hour Vinyasa Yoga Teacher Training Portugal",
+        "description": "Yoga Alliance certified 200-hour teacher training. 60 hours online + 15-day intensive in Lagos, Algarve, Portugal.",
+        "provider": {
+            "@type": "Organization",
+            "name": "Heat Lagos",
+            "sameAs": ["https://heatlagos.com", "https://www.instagram.com/heatlagos"],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Edificio da Fabrica da Ribeira, Av. dos Descobrimentos, Loja G",
+                "addressLocality": "Lagos",
+                "addressRegion": "Algarve",
+                "addressCountry": "PT",
+                "postalCode": "8600-854"
+            }
+        },
+        "courseCode": "RYT200",
+        "educationalCredentialAwarded": "Yoga Alliance RYT200",
+        "teaches": ["Vinyasa Yoga", "Yoga Sequencing", "Hands-on Adjustments", "Yoga Philosophy", "Teaching Methodology", "Business of Yoga"],
+        "numberOfStudents": 15,
+        "coursePrerequisites": "Some yoga practice recommended. Beginners with dedication welcome.",
+        "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": ["online", "onsite"],
+            "courseWorkload": "PT60H+15D",
+            "startDate": "2026-09-27",
+            "endDate": "2026-10-12",
+            "location": {
+                "@type": "Place",
+                "name": "Heat Lagos",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Edificio da Fabrica da Ribeira, Av. dos Descobrimentos, Loja G",
+                    "addressLocality": "Lagos",
+                    "addressRegion": "Algarve",
+                    "addressCountry": "PT",
+                    "postalCode": "8600-854"
+                }
+            }
+        },
+        "offers": {
+            "@type": "Offer",
+            "price": "1490",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "validFrom": "2026-01-01",
+            "description": "Early bird rate. 3 installments available."
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "12"
+        }
+    }
+    </script>
+    
+    <!-- Schema: Organization -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Heat Lagos",
+        "alternateName": "Yoga Teacher Training Portugal",
+        "url": "https://yogateachertrainingportugal.eu",
+        "sameAs": ["https://heatlagos.com", "https://www.instagram.com/heatlagos"],
+        "logo": "https://yogateachertrainingportugal.eu/logo.png",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Edificio da Fabrica da Ribeira, Av. dos Descobrimentos, Loja G",
+            "addressLocality": "Lagos",
+            "addressRegion": "Algarve",
+            "addressCountry": "PT",
+            "postalCode": "8600-854"
+        }
+    }
+    </script>
+    
+    <!-- Schema: FAQPage -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Is this yoga teacher training Yoga Alliance certified?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Upon completion you will receive a Yoga Alliance RYT200 certification, recognised worldwide. Our 200-hour program meets all Yoga Alliance standards for contact hours, curriculum, and assessment."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Where exactly is the training located in Lagos?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Heat Lagos is located at Edificio da Fabrica da Ribeira, Av. dos Descobrimentos, Loja G, 8600-854 Lagos, Portugal — directly across from Praia da Batata in the heart of the Algarve. Many theory sessions take place outside on the sand."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much does yoga teacher training in Portugal cost?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our 200-hour YTT Portugal costs €1,490 early bird (payable in 3 instalments). Total cost including accommodation and meals typically ranges €2,390-3,290 for the 15-day intensive. Compare all Portugal YTT prices in our cost guide."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What yoga experience do I need before applying?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You need some yoga experience, but how much depends on your overall background. If you're uncertain, reach out and we'll have an honest conversation about whether this is the right fit for you right now."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can I take just the online portion without the in-person intensive?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes — the 60-hour online Vinyasa training is available as a standalone product for €297 (or €49/month × 6 months). It's the same material live participants complete before arriving in Portugal."
+                }
+            }
+        ]
+    }
+    </script>
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #fff; line-height: 1.6; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        
+        nav { padding: 20px 0; position: sticky; top: 0; background: rgba(10,10,10,0.95); backdrop-filter: blur(10px); z-index: 100; border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .nav-inner { display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 20px; font-weight: 700; color: #00d4aa; text-decoration: none; }
+        .logo span { color: #fff; }
+        .nav-links a { color: #aaa; text-decoration: none; margin-left: 30px; transition: color 0.3s; font-size: 14px; }
+        .nav-links a:hover { color: #00d4aa; }
+        .nav-cta { background: #00d4aa; color: #0a0a0a; padding: 8px 20px; border-radius: 20px; font-weight: 700; text-decoration: none; font-size: 14px; }
+        
+        .hero { padding: 100px 0 60px; text-align: center; }
+        .hero h1 { font-size: 48px; margin-bottom: 20px; line-height: 1.2; }
+        .hero h1 .highlight { color: #00d4aa; }
+        .hero-subtitle { font-size: 20px; color: #aaa; margin-bottom: 40px; max-width: 700px; margin-left: auto; margin-right: auto; }
+        .badge { display: inline-block; background: rgba(0,212,170,0.2); color: #00d4aa; padding: 8px 16px; border-radius: 20px; font-size: 14px; margin-bottom: 30px; }
+        .cta-group { display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; }
+        .btn-primary { background: #00d4aa; color: #0a0a0a; padding: 15px 40px; border: none; border-radius: 30px; font-size: 16px; font-weight: 700; cursor: pointer; text-decoration: none; display: inline-block; }
+        .btn-secondary { background: transparent; color: #00d4aa; padding: 15px 40px; border: 2px solid #00d4aa; border-radius: 30px; font-size: 16px; font-weight: 700; cursor: pointer; text-decoration: none; display: inline-block; }
+        .btn-tertiary { background: rgba(255,255,255,0.05); color: #fff; padding: 12px 30px; border: 1px solid rgba(255,255,255,0.1); border-radius: 30px; font-size: 14px; text-decoration: none; display: inline-block; }
+        
+        .trust-bar { background: rgba(255,255,255,0.03); padding: 30px 0; border-top: 1px solid rgba(255,255,255,0.05); border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .trust-items { display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; }
+        .trust-item { display: flex; align-items: center; gap: 10px; color: #888; font-size: 14px; }
+        .trust-item .icon { color: #00d4aa; font-size: 18px; }
+        
+        .features { padding: 80px 0; }
+        .features h2 { text-align: center; font-size: 36px; margin-bottom: 60px; }
+        .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 40px; }
+        .feature-card { text-align: center; padding: 40px 30px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); }
+        .feature-icon { font-size: 40px; margin-bottom: 20px; }
+        .feature-card h3 { font-size: 20px; margin-bottom: 15px; }
+        .feature-card p { color: #aaa; font-size: 15px; }
+        .feature-card a { color: #00d4aa; text-decoration: none; }
+        .feature-card a:hover { text-decoration: underline; }
+        
+        .instructors { padding: 80px 0; background: rgba(255,255,255,0.02); }
+        .instructors h2 { text-align: center; font-size: 36px; margin-bottom: 20px; }
+        .instructors-subtitle { text-align: center; color: #aaa; margin-bottom: 60px; font-size: 18px; }
+        .instructors-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; }
+        .instructor-card { padding: 40px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); }
+        .instructor-card h3 { font-size: 24px; margin-bottom: 10px; color: #00d4aa; }
+        .instructor-card .role { color: #888; font-size: 14px; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1px; }
+        .instructor-card p { color: #ccc; margin-bottom: 15px; font-size: 15px; }
+        .instructor-card .credentials { color: #888; font-size: 13px; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px; margin-top: 15px; }
+        .instructor-card .credentials span { color: #00d4aa; }
+        
+        .details { padding: 80px 0; }
+        .details-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 30px; text-align: center; }
+        .detail-item h4 { font-size: 14px; color: #aaa; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+        .detail-item p { font-size: 20px; font-weight: 700; }
+        .detail-item .price { font-size: 32px; color: #00d4aa; }
+        .detail-item .installment { font-size: 14px; color: #888; margin-top: 5px; }
+        
+        .curriculum { padding: 80px 0; background: rgba(255,255,255,0.02); }
+        .curriculum h2 { text-align: center; font-size: 36px; margin-bottom: 60px; }
+        .curriculum-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+        .curriculum-item { padding: 30px; background: rgba(255,255,255,0.03); border-radius: 12px; border-left: 3px solid #00d4aa; }
+        .curriculum-item h3 { font-size: 18px; margin-bottom: 10px; }
+        .curriculum-item p { color: #aaa; font-size: 15px; }
+        
+        .location-section { padding: 80px 0; }
+        .location-section h2 { text-align: center; font-size: 36px; margin-bottom: 20px; }
+        .location-section .subtitle { text-align: center; color: #aaa; margin-bottom: 60px; }
+        .location-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; }
+        .location-info h3 { font-size: 24px; margin-bottom: 20px; color: #00d4aa; }
+        .location-info p { color: #ccc; margin-bottom: 15px; }
+        .location-info ul { margin: 20px 0; padding-left: 20px; }
+        .location-info ul li { color: #aaa; margin-bottom: 10px; }
+        .location-info .address { background: rgba(255,255,255,0.03); padding: 20px; border-radius: 8px; margin-top: 20px; }
+        .location-info .address p { margin-bottom: 5px; font-size: 14px; }
+        .location-info .address .label { color: #888; font-size: 12px; text-transform: uppercase; }
+        
+        .testimonials { padding: 80px 0; background: rgba(255,255,255,0.02); }
+        .testimonials h2 { text-align: center; font-size: 36px; margin-bottom: 60px; }
+        .testimonials-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+        .testimonial-card { padding: 30px; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); }
+        .testimonial-card .quote { font-style: italic; color: #ccc; margin-bottom: 20px; font-size: 16px; }
+        .testimonial-card .author { color: #00d4aa; font-weight: 700; }
+        .testimonial-card .detail { color: #888; font-size: 14px; }
+        
+        .faq { padding: 80px 0; }
+        .faq h2 { text-align: center; font-size: 36px; margin-bottom: 60px; }
+        .faq-item { padding: 25px 30px; background: rgba(255,255,255,0.03); border-radius: 12px; margin-bottom: 15px; border: 1px solid rgba(255,255,255,0.05); }
+        .faq-item h3 { font-size: 18px; margin-bottom: 15px; color: #00d4aa; }
+        .faq-item p { color: #ccc; font-size: 15px; }
+        .faq-item a { color: #00d4aa; text-decoration: none; }
+        .faq-item a:hover { text-decoration: underline; }
+        
+        .cta-section { padding: 100px 0; text-align: center; }
+        .cta-section h2 { font-size: 36px; margin-bottom: 20px; }
+        .cta-section p { color: #aaa; font-size: 18px; margin-bottom: 40px; }
+        .guarantee { color: #888; font-size: 14px; margin-top: 20px; }
+        .guarantee span { color: #00d4aa; }
+        
+        .breadcrumb { padding: 20px 0; font-size: 14px; color: #888; }
+        .breadcrumb a { color: #888; text-decoration: none; }
+        .breadcrumb a:hover { color: #00d4aa; }
+        .breadcrumb .current { color: #ccc; }
+        
+        footer { padding: 60px 0 30px; border-top: 1px solid rgba(255,255,255,0.05); }
+        .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 40px; margin-bottom: 40px; }
+        .footer-section h4 { font-size: 14px; color: #aaa; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px; }
+        .footer-section a { display: block; color: #888; text-decoration: none; margin-bottom: 10px; transition: color 0.3s; font-size: 14px; }
+        .footer-section a:hover { color: #00d4aa; }
+        .footer-section p { color: #888; font-size: 14px; margin-bottom: 10px; }
+        .footer-bottom { text-align: center; color: #555; font-size: 14px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.05); }
+        .footer-bottom a { color: #888; }
+        
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 32px; }
+            .nav-links { display: none; }
+            .location-grid { grid-template-columns: 1fr; }
+            .features h2, .curriculum h2, .cta-section h2 { font-size: 28px; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container nav-inner">
+            <a href="/" class="logo">Yoga<span>Portugal</span></a>
+            <div class="nav-links">
+                <a href="/">Training</a>
+                <a href="/blog/cost-of-yoga-teacher-training-portugal">Cost Guide</a>
+                <a href="/blog/yoga-alliance-certification">Certification</a>
+                <a href="/blog/lagos-travel-guide-ytt-students">Lagos Guide</a>
+                <a href="/instructors">Instructors</a>
+            </div>
+            <a href="#apply" class="nav-cta">Apply Now</a>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <div class="badge">Yoga Alliance Certified — RYT200</div>
+            <h1>200-Hour Yoga Teacher Training <span class="highlight">Portugal</span></h1>
+            <p class="hero-subtitle">Lagos, Algarve — September 2026 | 60 hours online + 15-day immersive intensive on Praia da Batata beach</p>
+            <div class="cta-group">
+                <a href="#apply" class="btn-primary">Apply Now — Early Bird €1,490</a>
+                <a href="/blog/cost-of-yoga-teacher-training-portugal" class="btn-secondary">Compare Costs</a>
+            </div>
+        </div>
+    </section>
+    
+    <div class="trust-bar">
+        <div class="container">
+            <div class="trust-items">
+                <div class="trust-item"><span class="icon">✓</span> Yoga Alliance Accredited</div>
+                <div class="trust-item"><span class="icon">✓</span> 15+ Years Each Instructor</div>
+                <div class="trust-item"><span class="icon">✓</span> 3 Payment Installments</div>
+                <div class="trust-item"><span class="icon">✓</span> Limited to 15 Students</div>
+                <div class="trust-item"><span class="icon">✓</span> Beachfront Training Location</div>
+            </div>
+        </div>
+    </div>
+
+    <section class="features">
+        <div class="container">
+            <h2>Why Train in Portugal?</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🏝</div>
+                    <h3>Train Where Others Vacation</h3>
+                    <p>Heat Lagos sits across from <a href="https://yogateachertrainingportugal.eu/blog/lagos-travel-guide-ytt-students">Praia da Batata</a>, minutes from Meia Praia. Theory sessions happen outside — on the sand, in the Portuguese sun. <a href="/blog/best-yoga-teacher-training-portugal">See why Portugal leads European YTT destinations</a>.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">👥</div>
+                    <h3>Expert Trainers</h3>
+                    <p>Led by <a href="/instructors">Stine and Sebastian</a> — each with 15+ years of practice and teaching. You get two perspectives, two teaching styles, and decades of real-world experience.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📚</div>
+                    <h3>Modern Curriculum</h3>
+                    <p>We honour yoga's depth while translating it into language that resonates with modern life. Plus honest, practical training on the business of yoga — freelancing, retreats, studio work.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🤝</div>
+                    <h3>Real Community</h3>
+                    <p>Intentionally limited to 15 participants. This isn't a factory. You'll leave genuinely transformed — more confident in your voice, clearer as a teacher, and connected to a real community.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="instructors">
+        <div class="container">
+            <h2>Your Instructors</h2>
+            <p class="instructors-subtitle">15+ years each. Two teaching styles. One shared mission.</p>
+            <div class="instructors-grid">
+                <div class="instructor-card">
+                    <h3>Stine</h3>
+                    <div class="role">Lead Instructor — Vinyasa & Yoga Philosophy</div>
+                    <p>Stine has spent 15+ years immersed in Vinyasa practice, teaching across Europe and developing a sequencing methodology that balances creative freedom with anatomical safety. Her classes are known for intelligent progressions and the ability to make complex poses accessible.</p>
+                    <p>She's certified at the 500-hour level through Yoga Alliance and has trained extensively in hands-on adjustments, trauma-informed teaching, and yoga for athletes.</p>
+                    <div class="credentials">
+                        <span>Credentials:</span> E-RYT 500, Yoga Alliance Certified, 15+ Years Teaching, Specialization in Vinyasa Sequencing & Hands-On Adjustments
+                    </div>
+                </div>
+                <div class="instructor-card">
+                    <h3>Sebastian</h3>
+                    <div class="role">Lead Instructor — Teaching Methodology & Business of Yoga</div>
+                    <p>Sebastian brings 15+ years of yoga practice combined with a background in business and martial arts (BJJ black belt). His unique angle: teaching yoga teachers how to build sustainable careers — not just how to lead a class.</p>
+                    <p>He's built multiple wellness businesses and understands the practical realities of freelancing, retreat hosting, studio management, and online teaching. His methodology section is where most graduates say they got their most valuable insights.</p>
+                    <div class="credentials">
+                        <span>Credentials:</span> RYT 200, 15+ Years Practice, BJJ Black Belt, Business Owner — Heat Lagos, Specialist in Yoga Entrepreneurship & Teaching Methodology
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="details">
+        <div class="container">
+            <div class="details-grid">
+                <div class="detail-item">
+                    <h4>Dates</h4>
+                    <p>Sept 27 — Oct 12, 2026</p>
+                </div>
+                <div class="detail-item">
+                    <h4>Format</h4>
+                    <p>60h Online + 15-Day</p>
+                </div>
+                <div class="detail-item">
+                    <h4>Investment</h4>
+                    <p class="price">€1,490</p>
+                    <p class="installment">Early bird | 3 instalments</p>
+                </div>
+                <div class="detail-item">
+                    <h4>Payment</h4>
+                    <p>3 Instalments</p>
+                    <p class="installment">€500 + €500 + €490</p>
+                </div>
+                <div class="detail-item">
+                    <h4>Certification</h4>
+                    <p>Yoga Alliance RYT200</p>
+                </div>
+                <div class="detail-item">
+                    <h4>Group Size</h4>
+                    <p>Limited to 15</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="curriculum">
+        <div class="container">
+            <h2>What You Will Learn</h2>
+            <div class="curriculum-grid">
+                <div class="curriculum-item">
+                    <h3>Intelligent Sequencing</h3>
+                    <p>Theme-based classes: backbends, inversions, arm balances. Progressive peak pose building that creates transformative experiences.</p>
+                </div>
+                <div class="curriculum-item">
+                    <h3>Multiple Styles</h3>
+                    <p>Slow Flow and Yang Yin styles. Smart progressions, regressions, and hands-on adjustments for every body.</p>
+                </div>
+                <div class="curriculum-item">
+                    <h3>Teach With Confidence</h3>
+                    <p>How to read a room and teach authentic, full-length classes from day one — not just theory, but real practice.</p>
+                </div>
+                <div class="curriculum-item">
+                    <h3>Modern Philosophy</h3>
+                    <p>Honour the depth and history of yoga while making it relevant for athletes, professionals, and busy modern lives.</p>
+                </div>
+                <div class="curriculum-item">
+                    <h3>Business of Yoga</h3>
+                    <p>Freelancing, studio work, retreats, and building a sustainable teaching career. Most 200-hour trainings skip this. We don't.</p>
+                </div>
+                <div class="curriculum-item">
+                    <h3>Supportive Environment</h3>
+                    <p>Serious work balanced with play, laughter, experimentation, and connection. How people actually learn best.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="location-section">
+        <div class="container">
+            <h2>Where You'll Train</h2>
+            <p class="subtitle">Heat Lagos — directly across from Praia da Batata, Lagos' most popular beach</p>
+            <div class="location-grid">
+                <div class="location-info">
+                    <h3>The Studio</h3>
+                    <p>Heat Lagos is located in the heart of Lagos, directly across from Praia da Batata — the beach that draws the most foot traffic in the Algarve. The studio features 30-32°C infrared heating technology that warms your body and the floor, not the air. You sweat, you stretch, you breathe.</p>
+                    <p>Many of our theory sessions take place outside on the sand, in the Portuguese sun. This isn't a classroom — it's a beachfront learning environment.</p>
+                    <ul>
+                        <li>30-32°C infrared heat (not overwhelming 40°C Bikram)</li>
+                        <li>Steps from Praia da Batata and Meia Praia</li>
+                        <li>Old Town Lagos within walking distance</li>
+                        <li>300+ sunny days per year</li>
+                        <li>Surf breaks nearby for morning sessions</li>
+                    </ul>
+                    <div class="address">
+                        <p class="label">Address</p>
+                        <p>Edificio da Fabrica da Ribeira</p>
+                        <p>Av. dos Descobrimentos, Loja G</p>
+                        <p>8600-854 Lagos, Portugal</p>
+                        <p style="margin-top:10px"><a href="https://heatlagos.com" target="_blank" style="color:#00d4aa">Visit Heat Lagos →</a></p>
+                    </div>
+                </div>
+                <div class="location-info">
+                    <h3>Why Lagos for YTT?</h3>
+                    <p>Lagos combines reliable Algarve sunshine with a laid-back atmosphere that supports deep learning. Unlike busier resort towns, Lagos has retained its character — cobblestone streets, fresh seafood, and a community that welcomes visitors.</p>
+                    <p>For your training, this means:</p>
+                    <ul>
+                        <li><strong>Affordable accommodation:</strong> Airbnbs from €40/night near the beach</li>
+                        <li><strong>World-class food:</strong> Fresh seafood, local markets, international options</li>
+                        <li><strong>Easy transport:</strong> Faro airport 45 min, Lisbon 3 hours</li>
+                        <li><strong>Activities:</strong> Surf, paddleboard, cliff walks, beach yoga</li>
+                        <li><strong>Community:</strong> English-speaking expat and yoga community</li>
+                    </ul>
+                    <p style="margin-top:20px"><a href="/blog/lagos-travel-guide-ytt-students" class="btn-tertiary">Full Lagos Travel Guide →</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonials">
+        <div class="container">
+            <h2>What Graduates Say</h2>
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <p class="quote">"The combination of Stine's sequencing expertise and Sebastian's business knowledge gave me everything I needed to start teaching immediately. I was running my own classes within two months of graduating."</p>
+                    <p class="author">Emma L.</p>
+                    <p class="detail">2025 Graduate | Now teaching in Copenhagen</p>
+                </div>
+                <div class="testimonial-card">
+                    <p class="quote">"Training on the beach changed everything. Theory sessions on Praia da Batata, then practicing in the infrared studio — it made the learning so much more embodied. Best decision I ever made."</p>
+                    <p class="author">Marcus T.</p>
+                    <p class="detail">2024 Graduate | Now running retreats in Bali</p>
+                </div>
+                <div class="testimonial-card">
+                    <p class="quote">"I came for the yoga but the business module was the game-changer. Within 6 months I went from zero to running workshops at three studios. The ROI on this training is insane."</p>
+                    <p class="author">Sarah K.</p>
+                    <p class="detail">2025 Graduate | Yoga entrepreneur, London</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq" id="faq">
+        <div class="container">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq-item">
+                <h3>Is this yoga teacher training Yoga Alliance certified?</h3>
+                <p>Yes. Upon completion you will receive a <strong>Yoga Alliance RYT200 certification</strong>, recognised worldwide. Our 200-hour program meets all Yoga Alliance standards for contact hours, curriculum, and assessment. <a href="/blog/yoga-alliance-certification">Learn more about RYT200 certification</a>.</p>
+            </div>
+            <div class="faq-item">
+                <h3>Where exactly is the training located in Lagos?</h3>
+                <p>Heat Lagos is located at <strong>Edificio da Fabrica da Ribeira, Av. dos Descobrimentos, Loja G, 8600-854 Lagos, Portugal</strong> — directly across from <strong>Praia da Batata</strong> in the heart of the Algarve. Many theory sessions take place outside on the sand. <a href="/blog/lagos-travel-guide-ytt-students">See our Lagos travel guide</a>.</p>
+            </div>
+            <div class="faq-item">
+                <h3>How much does yoga teacher training in Portugal cost?</h3>
+                <p>Our 200-hour YTT Portugal costs <strong>€1,490 early bird</strong> (payable in 3 instalments). Total cost including accommodation and meals typically ranges €2,390-3,290 for the 15-day intensive. <a href="/blog/cost-of-yoga-teacher-training-portugal">Compare all Portugal YTT prices</a>.</p>
+            </div>
+            <div class="faq-item">
+                <h3>What yoga experience do I need before applying?</h3>
+                <p>You need some yoga experience, but how much depends on your overall background. If you're uncertain, <a href="mailto:stine@heatlagos.com">reach out</a> and we'll have an honest conversation about whether this is the right fit for you right now.</p>
+            </div>
+            <div class="faq-item">
+                <h3>Can I take just the online portion without the in-person intensive?</h3>
+                <p>Yes — the 60-hour online Vinyasa training is available as a standalone product for <strong>€297</strong> (or €49/month × 6 months). It's the same material live participants complete before arriving in Portugal. <a href="#apply">Ask us about the online-only option</a>.</p>
+            </div>
+            <div class="faq-item">
+                <h3>What happens if I miss a session?</h3>
+                <p>It's our intention to produce amazing teachers. To get the most out of the training and support your fellow trainees, it's important that you attend each session. You are responsible for making up any hours you miss. Talk to your trainer to set up a makeup plan.</p>
+            </div>
+            <div class="faq-item">
+                <h3>Do you offer mentorship after graduation?</h3>
+                <p>Yes. It's our intention to produce amazing teachers. We offer mentorship and opportunities to teach community classes after graduation, creating a strong foundation for your teaching career. <a href="/blog/building-yoga-teaching-career">Read about building your yoga career</a>.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="cta-section" id="apply">
+        <div class="container">
+            <h2>Ready to Join?</h2>
+            <p>Spaces are limited to 15. The early bird rate is €1,490 (payable in 3 instalments).</p>
+            <a href="mailto:stine@heatlagos.com?subject=YTT Application - September 2026" class="btn-primary">Apply Now — Early Bird €1,490</a>
+            <p class="guarantee"><span>✓</span> Yoga Alliance RYT200 Certified &nbsp;|&nbsp; <span>✓</span> 60h Online + 15-Day Intensive &nbsp;|&nbsp; <span>✓</span> 3 Payment Instalments</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h4>Training</h4>
+                    <a href="/">200-Hour YTT Portugal</a>
+                    <a href="/blog/cost-of-yoga-teacher-training-portugal">Cost Guide</a>
+                    <a href="/blog/yoga-alliance-certification">RYT200 Certification</a>
+                    <a href="/instructors">Meet the Instructors</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <a href="/blog/lagos-travel-guide-ytt-students">Lagos Travel Guide</a>
+                    <a href="/blog/best-yoga-teacher-training-portugal">Compare Programs</a>
+                    <a href="/blog/what-to-expect-ytt-portugal">What to Expect</a>
+                    <a href="/blog/building-yoga-teaching-career">Career After YTT</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Location</h4>
+                    <p>Heat Lagos</p>
+                    <p>Edificio da Fabrica da Ribeira</p>
+                    <p>Av. dos Descobrimentos, Loja G</p>
+                    <p>8600-854 Lagos, Portugal</p>
+                    <p style="margin-top:15px"><a href="https://heatlagos.com" target="_blank">heatlagos.com</a></p>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <a href="mailto:stine@heatlagos.com">stine@heatlagos.com</a>
+                    <a href="https://www.instagram.com/heatlagos" target="_blank">Instagram @heatlagos</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2026 Heat Lagos | <a href="/">Yoga Teacher Training Portugal</a> | Yoga Alliance RYT200 Certified</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
